@@ -1,0 +1,10 @@
+ Volume in drive C is WINDOWS
+ Volume Serial Number is 5EDF-C465
+
+ Directory of C:\Users\subbi\OneDrive\Desktop\My Project folder
+
+05-05-2020  08:28    <DIR>          .
+05-05-2020  08:28    <DIR>          ..
+05-05-2020  08:28                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  870,148,349,952 bytes free
